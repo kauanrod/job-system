@@ -24,7 +24,7 @@ class JobsysApplication {
                 "Development Techinician",
                 true,
                 2400.00,
-                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Tranposrt Voucher", 250.00))
+                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Transport Voucher", 250.00))
             ),
             Promotion(
                 3,
@@ -32,7 +32,7 @@ class JobsysApplication {
                 "Junior Developer I",
                 true,
                 3000.00,
-                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Tranposrt Voucher", 250.00))
+                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Transport Voucher", 250.00))
             ),
             Promotion(
                 4,
@@ -40,7 +40,7 @@ class JobsysApplication {
                 "Senior Developer I",
                 true,
                 6000.00,
-                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Tranposrt Voucher", 250.00))
+                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Transport Voucher", 250.00))
             ),
             Promotion(
                 5,
@@ -48,7 +48,7 @@ class JobsysApplication {
                 "Manager",
                 false,
                 7000.00,
-                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Tranposrt Voucher", 250.00))
+                arrayOf(Pair("Meal Voucher", 1200.00), Pair("Transport Voucher", 250.00))
             ),
         )
     }
