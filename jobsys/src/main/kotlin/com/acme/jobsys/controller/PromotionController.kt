@@ -33,7 +33,7 @@ class PromotionController {
     }
     
     @PostMapping
-    fun create(promotion: Promotion) {
+    fun create(@RequestBody promotion: Promotion) {
         promotions[promotion.id] = promotion
     }
 }
